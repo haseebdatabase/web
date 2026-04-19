@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Nexora Elite - VU Student Helper",
-  "version": "1.0.0",
-  "description": "Premium companion for VU students. Integrated with Nexora LMS.",
+  "version": "1.0.2",
+  "description": "The premium all-in-one productivity suite for VU, DigiSkills, and Cisco students. Solve assignments with AI and optimize your LMS experience.",
   "permissions": ["storage", "contextMenus", "tabs", "printing"],
   "host_permissions": [
     "https://*.vu.edu.pk/*", 
